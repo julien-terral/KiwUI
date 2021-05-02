@@ -1,0 +1,15 @@
+{
+  "name": "@kronos/ui",
+  "description": "KiwUI library components for Kronos projects",
+  "license": "ISC",
+  "main": "src/index.js",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "author": {
+    "name": "Julien TERRAL"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
